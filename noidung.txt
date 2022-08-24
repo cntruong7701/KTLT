@@ -1,0 +1,15 @@
+Biến: 
+- Toàn cục(global varible): được khai báo ngoài mọi hàm, kể cả hàm main
+-cục bộ(lobla varible):
++ cục bộ hàm
++ cục bộ khối
+
+mingw32-make.exe
+
+Con Trỏ:
+- là biến chứa địa chỉ của vùng nhớ trong RAM
+- kích thước con trỏ phụ thuộc vào HDH (VD: Windown 10 64bit: 8 bytes)
+
+Đệ quy:
+    
+
